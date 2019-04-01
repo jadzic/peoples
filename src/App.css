@@ -15,7 +15,7 @@ header {
   background-color: brown;
   color: white;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items:center;
   padding: 0 12%;
   margin-bottom: 2%;
@@ -93,4 +93,13 @@ footer {
   width: 70%;
   margin: 0 auto;
   margin-bottom: 30px;
+}
+
+.female {
+  background-color: pink;
+}
+
+input {
+  width:80%; 
+  display: block;
 }
